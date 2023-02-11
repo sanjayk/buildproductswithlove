@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "amazon_link": "https://www.amazon.com/gp/product/0465050654/",
+    "kindle_highlight": "Affordances determine what actions are possible. Signifiers communicate where the action should take place.",
+    "why": "Product Management is about observing our surroundings to gather inspiration as it is about originality. If you read this book and don't understand the connection to being a great product manager IMO, it'll be very difficult build a product with love or empathy"
+  },
+  {
+    "id": 2,
+    "name": "Inspired",
+    "author": "Marty Cagan",
+    "amazon_link": "https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507",
+    "kindle_highlight": "Will the user buy this (or choose to use it)? Can the user figure out how to use this? Can our engineers build this? Can our stakeholders support this?",
+    "why": "Marty Cagan from the Silicon Valley Product Group is one of the most well regarded product thinkers in the world. Anytime he has something to say about product, the rest of us listen"
+  },
+  {
+    "id": 3,
+    "name": "The Innovator's Dilemma",
+    "author": "Clayton Christensen",
+    "amazon_link": "https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780",
+    "kindle_highlight": "Blindly following the maxim that good managers should keep close to their customers can sometimes be a fatal mistake.",
+    "why": "Marty Cagan from the Silicon Valley Product Group is one of the most well regarded product thinkers in the world. Anytime he has something to say about product, the rest of us listen"
+  },
+  {
+    "id": 4,
+    "name": "Sprint",
+    "author": "Jake Knapp",
+    "amazon_link": "https://www.amazon.com/gp/product/150112174X",
+    "kindle_highlight": "An important part of this exercise is rephrasing assumptions and obstacles into questions.",
+    "why": "Originally produced by Google Ventures, this is a book helps product managers think about how to organize and execute in 5 days."
+  }
+]
