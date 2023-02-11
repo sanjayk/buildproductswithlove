@@ -1,0 +1,77 @@
+{
+    "id": "root",
+    "name": "PRODUCT X",
+    "children": [
+      {
+        "id": "1",
+        "name": "IDEAS",
+        "description": "You are brimming with ideas, you need a place to organize those ideas. Remember ideas are separate from thoughts"
+      },
+      {
+        "id": "3",
+        "name": "DOCS",
+        "description": "The docs folder is to store your canonical source of truth. PRDs, MRDs and RFCs is what engineers and other stakeholder refer to for answers",
+        "children": [
+          {
+            "id": "4",
+            "name": "PRD",
+            "description": "PRD stands for Products Requirements Document.This is the document that clarifies the 5Ws of the product build"
+          },
+          {
+            "id": "5",
+            "name": "MRD",
+            "description": "MRD stands for Market Requirements Document. This is the document that clearly lays out the Market Opportunity"
+          },
+          {
+            "id": "6",
+            "name": "RFC",
+            "description": "RFC stands for Requests for comments. This document should answer the How in great detail. Think the tech spec."
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "ROADMAPS"
+      },
+      {
+        "id": "8",
+        "name": "DESIGN",
+        "children": [
+            {
+                "id": "9",
+                "name": "WIREFRAMES"
+            },
+            {
+                "id": "10",
+                "name": "PROTOTYPES"
+            },
+            {
+                "id": "11",
+                "name": "UX"
+            },
+            {
+                "id": "12",
+                "name": "HIGH-FED DESIGNS"
+            },
+            {
+                "id": "13",
+                "name": "USER RESEARCH"
+            }
+        ]
+      },
+      {
+        "id": "14",
+        "name": "FUNDING"
+      }
+      ,
+      {
+        "id": "15",
+        "name": "METRICS"
+      }
+      ,
+      {
+        "id": "16",
+        "name": "EXPERIMENTS"
+      }
+    ]
+  }
